@@ -2,7 +2,7 @@
 Theme Name: 	   EasyTech
 Text Domain: 	   easytech
 Template: 			softme
-Version:            1.0.53
+Version:            1.0.54
 Tested up to:       6.7
 Requires at least:  4.7
 Requires PHP:       5.6
@@ -1581,4 +1581,8 @@ table.wc-block-cart-items .wc-block-cart-items__row .wc-block-components-product
 
 .wc-block-mini-cart__footer .wc-block-mini-cart__footer-actions a {
     font-size: 1.2rem;
+}
+
+.wc-block-mini-cart__footer span.wc-block-components-totals-item__label {
+    font-size: 1.5rem;
 }
