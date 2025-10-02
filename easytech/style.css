@@ -2,7 +2,7 @@
 Theme Name: 	   EasyTech
 Text Domain: 	   easytech
 Template: 			softme
-Version:            1.0.90
+Version:            1.0.91
 Tested up to:       6.8
 Requires at least:  4.7
 Requires PHP:       5.6
@@ -1702,4 +1702,8 @@ a.wp-block-button__link:focus {
 
 .wp-block-latest-comments li a:not(:hover, :focus) {
     color: var(--dt-sec-color);
+}
+
+.dt_footer .wp-block-latest-comments li a:not(:hover, :focus) {
+    color: inherit;
 }
