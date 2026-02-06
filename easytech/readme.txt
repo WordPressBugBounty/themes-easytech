@@ -1,9 +1,9 @@
 === EasyTech ===
 Contributors: DesertThemes
 Requires at least: 4.7
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
-Stable tag: 1.0.91
+Stable tag: 1.1.6
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: one-column, two-columns ,right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
@@ -86,6 +86,51 @@ License: Creative Commons Zero
 License: Creative Commons Zero
 
 == Changelog ==
+
+@version 1.1.6
+* Style improvements - Block Categories
+
+@version 1.1.5
+* Style improvements - Block Button
+
+@version 1.1.4
+* Style improvements - Block Button
+
+@version 1.1.3
+* Style improvements - Woocommerce Address Title
+
+@version 1.1.2
+* Style improvements - Footer Block Cart Button
+
+@version 1.1.1
+* Style improvements - Footer Block Cart Button
+
+@version 1.1
+* Tested - By WordPress 6.9
+
+@version 1.0.99
+* Style improvements - Footer Cart Widget Image
+
+@version 1.0.98
+* Style improvements - Footer Cart Widget Image
+
+@version 1.0.97
+* Style improvements - Footer Cart Widget Amount
+
+@version 1.0.96
+* Style improvements - Footer Cart Widget Checkout Button Hover & Focus
+
+@version 1.0.95
+* Style improvements - Footer Cart Widget Cart Button Hover & Focus
+
+@version 1.0.94
+* Style improvements - Footer Cart Widget Cart Button
+
+@version 1.0.93
+* Style improvements - Footer Product List
+
+@version 1.0.92
+* Tested - By WordPress 6.8.3
 
 @version 1.0.91
 * Style improvements - Footer Block Latest Comments
