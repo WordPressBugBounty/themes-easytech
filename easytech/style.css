@@ -2,7 +2,7 @@
 Theme Name: 	   EasyTech
 Text Domain: 	   easytech
 Template: 			softme
-Version:            1.1.12
+Version:            1.1.13
 Tested up to:       6.9
 Requires at least:  4.7
 Requires PHP:       5.6
@@ -1768,4 +1768,8 @@ a.wp-block-button__link:focus {
 
 .wp-block-file.has-background {
     padding: 1rem;
+}
+
+.woocommerce .summary .product_meta>span a {
+    text-decoration: none;
 }
