@@ -2,7 +2,7 @@
 Theme Name: 	   EasyTech
 Text Domain: 	   easytech
 Template: 			softme
-Version:            1.1.19
+Version:            1.1.20
 Tested up to:       7.0
 Requires at least:  4.7
 Requires PHP:       5.6
@@ -1794,4 +1794,8 @@ table.wc-block-cart-items .wc-block-cart-items__header th {
 
 .wp-block-woocommerce-customer-account a:focus {
     text-decoration: underline !important;
+}
+
+.wc-block-customer-account__link {
+    text-decoration: none;
 }
