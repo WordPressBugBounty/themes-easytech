@@ -2,7 +2,7 @@
 Theme Name: 	   EasyTech
 Text Domain: 	   easytech
 Template: 			softme
-Version:            1.1.29
+Version:            1.1.30
 Tested up to:       7.1
 Requires at least:  4.7
 Requires PHP:       5.6
@@ -1816,6 +1816,6 @@ table.wc-block-cart-items .wc-block-cart-items__header th {
     background-color: var(--dt-pri-color);
 }
 
-.wp-block-accordion-heading__toggle {
+.wp-block-accordion-heading.has-background .wp-block-accordion-heading__toggle {
     padding: 1rem;
 }
